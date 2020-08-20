@@ -1,0 +1,12 @@
+// Copyright 2019-2020 @polkadot/wasm-crypto authors & contributors
+// This software may be modified and distributed under the terms
+// of the Apache-2.0 license. See the LICENSE file for details.
+
+pub mod bip39;
+pub mod ed25519;
+pub mod hashing;
+pub mod sr25519;
+
+fn main() {
+    println!("test");
+}
